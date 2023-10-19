@@ -14,7 +14,7 @@ Cloning the project (make sure you have Golang installed first)
   git clone https://github.com/hungnguyennaz/fast-dstat
   cd fast-dstat
 ```
-Installing required packages and build
+Install required packages and build
 ```bash
   go get github.com/gofiber/fiber/v2
   go build -o fast-dstat
