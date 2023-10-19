@@ -1,7 +1,7 @@
 
 # fast-dstat
 
-A simple and fast dstat page written in Go and gofiber
+A fast and simple dstat page written in Go and gofiber
 
 
 
